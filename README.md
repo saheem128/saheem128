@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![Status](https://img.shields.io/badge/status-online-brightgreen.svg)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--
 **saheem128/saheem128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
